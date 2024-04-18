@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah0703&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah0703" /> </p>
 
-- 🌱 I’m currently learning **Web Dev, Java, Computer Vision**
+- 🌱 I’m currently learning **Web Dev, Java, Computer Vision, PHP, JQuery**
 
 - 💬 Ask me about **Java, React, JS**
 
